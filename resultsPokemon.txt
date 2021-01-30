@@ -1,0 +1,12 @@
+<Name>          <Y/N>   <Points>
+Sarah           Y       20
+Becca			N		0
+Ash			    Y		0
+Becca			N		10
+Becca			Y		0
+Becca			Y		20
+Becc			Y		0
+Jacob			Y		0
+Becca			N		0
+Madi			Y		30
+Becca			Y		0
